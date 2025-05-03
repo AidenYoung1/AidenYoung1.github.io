@@ -7,12 +7,3 @@ theme: jekyll-theme-minimal
 title: Aiden Young
 description: Founder of Orpheus AI, bridging soil science, regenerative, and precision farming.
 css: /assets/css/custom.css
-publications:
-  - title: "Social Media, The Democratic Regime, and You"
-    url: ""
-  - title: "Regenerative Farming Techniques"
-    url: ""
-hobbies:
-  - Surf
-  - Sail
-  - Baseball
