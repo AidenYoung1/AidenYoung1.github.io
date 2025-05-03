@@ -2,3 +2,17 @@ theme: jekyll-theme-minimal
 title: Aiden Young
 description: Founder & ceo of Orpheus AI, understand nature
 css: /assets/css/custom.css
+
+theme: jekyll-theme-minimal
+title: Aiden Young
+description: Founder of Orpheus AI, bridging soil science, regenerative, and precision farming.
+css: /assets/css/custom.css
+publications:
+  - title: "Soil Science Innovations 2024"
+    url: ""
+  - title: "Regenerative Farming Techniques"
+    url: ""
+hobbies:
+  - Surf
+  - Sail
+  - Baseball
