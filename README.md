@@ -1,1 +1,3 @@
-# aidenyoung1.github.io
+theme: jekyll-theme-minimal
+title: Aiden Young
+description: 
