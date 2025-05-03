@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% if site.css %}
+  <link rel="stylesheet" href="{{ site.css | relative_url }}">
+  {% endif %}
+  <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar">
+      <h2>Publications</h2>
+      <ul>
+        {% if site.publications %}
+        {% for pub in site.publications %}
+        <li>{{ pub.title }} (<a href="{{ pub.url }}">Link</a>)</li>
+        {% endfor %}
+        {% else %}
+        <li>No publications yet.</li>
+        {% endif %}
+      </ul>
+      <h2>Hobbies</h2>
+      <ul>
+        {% if site.hobbies %}
+        {% for hobby in site.hobbies %}
+        <li>{{ hobby }}</li>
+        {% endfor %}
+        {% else %}
+        <li>No hobbies listed.</li>
+        {% endif %}
+      </ul>
+    </div>
+    <div class="main-content">
+      {{ content }}
+    </div>
+  </div>
+</body>
+</html>
