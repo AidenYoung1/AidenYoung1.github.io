@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Aiden Yoiung
+title: Aiden Young
 
 My name is Aiden Young
 
