@@ -11,7 +11,7 @@ I founded Orpheus AI to bridge the gap of soil science, regenerative farming, LL
 
 I am also working on something called "Project Seneca" or SenecaAI, an LLM that trains itself on the syntactical structure of every known Latin primary source, as opposed to generic word to word translation. Essentially teaching AI to understand the structure of the latin language.
 
-[Linkedin](https://www.linkedin.com/in/aidenyoung-/) | [GitHub](https://github.com/aidenyoung1) | [Orpheus AI](https://www.linkedin.com/company/orpheus-technologies-regen-ag/)
+[Linkedin](https://www.linkedin.com/in/aidenyoung-/) | [medium](https://medium.com/@American_Orpheus) | [Orpheus AI](https://www.linkedin.com/company/orpheus-technologies-regen-ag/)
 
 
 
